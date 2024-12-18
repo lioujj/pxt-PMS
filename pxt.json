@@ -1,0 +1,14 @@
+{
+    "name": "PMS",
+    "version": "0.0.1",
+    "description": "這是專為micro:bit提供的攀藤PMS系列空氣品質感測器積木",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts"
+    ],
+    "public": true
+}
